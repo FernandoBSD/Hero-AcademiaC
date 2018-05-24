@@ -1,0 +1,9 @@
+Name of the number one hero?;All Might;
+At what age the particulities start to show up?;4;
+Main priority of a hero?;save people;
+which is most noticeable villan organization?;League of Villans;
+Name the hero specialice in rescues?;Thirty;
+Who won the "Besto Jeans" price the most?;Besto jeans;
+Name of the hero who delete particularities with a look?;Eraserhead;
+What to do when a hero caugth a villan?;Deliver him to the police;
+
